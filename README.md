@@ -1,4 +1,4 @@
-# Shinobi Striker Save Editor - CUSA08789
+# Shinobi Striker Save Editor
 
 This Windows editor works with the decrypted GVAS/UE4 save structure used by
 the CUSA08789 Customizev003 save.
