@@ -10,11 +10,6 @@ Then select your decrypted Customizev003, scan it, enter 500, and create the mod
 
 ## Current editing features
 
-### Main counters
-- ID_Counter_Money
-- ID_Counter_TotalMoney
-- ID_Counter_PlayerExperience
-
 ### Scrolls
 - Discovers all `ID_Scroll_*` IntProperty entries in the save.
 - Lets you edit any individual scroll entry.
